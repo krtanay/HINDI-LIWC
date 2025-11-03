@@ -1,0 +1,37 @@
+{
+  "Affect": [
+    "Positive Emotion",
+    "Negative Emotion",
+    "Anger",
+    "Sadness",
+    "Fear",
+    "Disgust"
+  ],
+  "Cognition": [
+    "Insight",
+    "Causation",
+    "Tentative",
+    "Certainty"
+  ],
+  "Social": [
+    "Family",
+    "Friends",
+    "Humans"
+  ],
+  "Drives": [
+    "Achievement",
+    "Affiliation",
+    "Power"
+  ],
+  "Function Words": [
+    "Pronouns",
+    "Articles",
+    "Prepositions",
+    "Conjunctions"
+  ],
+  "Time": [
+    "Past",
+    "Present",
+    "Future"
+  ]
+}
